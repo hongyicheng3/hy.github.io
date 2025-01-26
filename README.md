@@ -3,7 +3,7 @@
 ## Projects
 ### Title
 
-[Project](assets/Exoplanet detection.ipynb)
+[Project](assets/Exoplanet_detection.ipynb)
 
 Description
 
