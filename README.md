@@ -1,5 +1,3 @@
-## Education
-
 ## Projects
 ### Exoplanet detection:
 [Project download](assets/Exoplanet_detection.ipynb)
