@@ -5,7 +5,7 @@
 ### Exoplanet detection:
 [Project download](assets/Exoplanet_detection.ipynb) |
 [Project](https://github.com/hongyicheng3/hy.github.io/blob/main/assets/Exoplanet_detection.ipynb)
-[Webpage](./exoplanet_webpage.html)
+[Webpage](./Exoplanet_detection.html)
 
 
 This project involved developing an algorithm to detect exoplanets using data from NASA's Transiting Exoplanet Sky Survey (TESS). I employed a Box-Least-Squares algorithm with the **NumPy**, **SciPy** and **MatPlotLib** Python libraries in order to identify potential exoplanet candidates based on observed stellar data. This project sharpened my skills in data analysis, data visualisation, and algorithm development.
