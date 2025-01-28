@@ -13,7 +13,7 @@ This project involved developing an algorithm to detect exoplanets using data fr
 
 ### Machine learning model (RandomForest):
 [Project download](assets/random_forest.ipynb) |
-[Project](https://github.com/hongyicheng3/hy.github.io/blob/main/assets/random_forest.ipynb)
+[Project](https://hongyicheng3.github.io/portfolio/random_forest.html)
 
 This project focuses on implementing a RandomForest to predict the likelihood of a customer buying a ticket based on some features. Using Python libraries such as **Pandas**, **NumPy**, **SciKit** and **MatPlotLib**, I was able to prepare a dataset from a job simulation in Forage to implement a machine learning model. Then, I evaluated the model's performance, and then output some visualisations on the performance. This project help me enhance my skills in machine learning, data visualisation, and data manipulation.
 
@@ -21,6 +21,6 @@ This project focuses on implementing a RandomForest to predict the likelihood of
 
 ### Web scraping and analysis:
 [Project download](assets/web_scraping.ipynb) |
-[Project](https://github.com/hongyicheng3/hy.github.io/blob/main/assets/web_scraping.ipynb)
+[Project](https://hongyicheng3.github.io/portfolio/web_scraping.html)
 
 In this project, I extracted data from a website to perform a sentiment analysis and some word clouds with the help of some Python libraries such as **Pandas**, **NLTK**, **BeautifulSoup**, **Requests** and **MatPlotLib**. It helped me develop my skills in web scraping, data manipulation, data analysis and data visualisation.
