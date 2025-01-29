@@ -27,5 +27,5 @@ In this project, I extracted data from a website to perform a sentiment analysis
 
 * * *
 
-### Quantitative research:
+### Quantitative research job simulation:
 In progress...
