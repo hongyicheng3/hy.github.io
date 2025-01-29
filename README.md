@@ -24,3 +24,8 @@ This project focuses on implementing a RandomForest to predict the likelihood of
 [Download Jupyter file](assets/web_scraping.ipynb)
 
 In this project, I extracted data from a website to perform a sentiment analysis and some word clouds with the help of some Python libraries such as **Pandas**, **NLTK**, **BeautifulSoup**, **Requests** and **MatPlotLib**. It helped me develop my skills in web scraping, data manipulation, data analysis and data visualisation.
+
+* * *
+
+### Quantitative research:
+In progress...
