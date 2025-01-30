@@ -16,7 +16,7 @@ This project involved developing an algorithm to detect exoplanets using data fr
 [See project](https://hongyicheng3.github.io/portfolio/random_forest.html) |
 [Download Jupyter file](assets/random_forest.ipynb)
 
-This project focuses on implementing a RandomForest to predict the likelihood of a customer buying a ticket based on features from 50000 bookings. Using Python libraries such as **Pandas**, **NumPy**, **SciKit Learn** and **MatPlotLib**, I was able to prepare a dataset from a job simulation in Forage to implement a machine learning model. Then, I evaluated the model's performance, and prepared some visualisations on the performance. This project helped me enhance my skills in machine learning, data visualisation, and data manipulation.
+This project focuses on implementing a RandomForest to predict the likelihood of a customer buying a ticket based on data from 50000 customer bookings. Using Python libraries such as **Pandas**, **NumPy**, **SciKit Learn** and **MatPlotLib**, I was able to prepare a dataset from a job simulation in Forage to implement a machine learning model. Then, I evaluated the model's performance, and prepared some visualisations on the performance. This project helped me enhance my skills in machine learning, data visualisation, and data manipulation.
 
 * * *
 
