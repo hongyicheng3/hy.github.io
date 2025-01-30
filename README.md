@@ -8,7 +8,7 @@ These are some projects that highlight my ability to apply Python across differe
 [Download Jupyter file](assets/Exoplanet_detection.ipynb)
 
 
-This project involved developing an algorithm to detect exoplanets using data from NASA's Transiting Exoplanet Sky Survey (TESS). I employed a Box-Least-Squares algorithm on ~20000 measurements using the **NumPy**, **SciPy** and **MatPlotLib** Python libraries in order to identify potential exoplanet candidates based on observed stellar data. This project sharpened my skills in data analysis, data visualisation, and algorithm development.
+This project involved developing an algorithm to detect exoplanets using data from NASA's Transiting Exoplanet Sky Survey (TESS). I employed a Box-Least-Squares algorithm on 20000 measurements using the **NumPy**, **SciPy** and **MatPlotLib** Python libraries in order to identify potential exoplanet candidates based on observed stellar data. This project sharpened my skills in data analysis, data visualisation, and algorithm development.
 
 * * *
 
