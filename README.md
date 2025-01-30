@@ -1,5 +1,5 @@
 ## Projects
-These are some projects that highlight my ability to apply Python across different domains, demonstrating problem-solving skills, coding proficiency, and a passion for working with data.
+These are some projects that highlight my ability to apply Python across different domains, demonstrating problem-solving skills, coding proficiency, and a passion for working with this programming language.
 
 * * *
 
@@ -29,6 +29,6 @@ In this project, I extracted data from a website to perform a sentiment analysis
 * * *
 
 ### Quantitative research job simulation:
-In progress...
+In progress... Delayed due to hand injury.
 
 * * *
