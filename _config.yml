@@ -10,4 +10,5 @@ plugins:
   - jekyll-seo-tag
 
 show_downloads: False
-theme: minima
+#theme: minima
+remote_theme: jekyll/minima
