@@ -12,7 +12,7 @@ These are some projects that highlight my ability to apply Python across differe
 * * *
 
 
-### Exoplanet detection:
+## Exoplanet detection:
 [See project](https://hongyicheng3.github.io/portfolio/Exoplanet_detection.html) |
 [Download Jupyter file](assets/Exoplanet_detection.ipynb)
 
@@ -23,7 +23,7 @@ This project involved developing an algorithm to detect exoplanets using data fr
 * * *
 
 
-### Machine learning model (RandomForest):
+## Machine learning model (RandomForest):
 [See project](https://hongyicheng3.github.io/portfolio/random_forest.html) |
 [Download Jupyter file](assets/random_forest.ipynb)
 
@@ -33,7 +33,7 @@ This project focuses on implementing a RandomForest to predict the likelihood of
 * * *
 
 
-### Web scraping and analysis:
+## Web scraping and analysis:
 [See project](https://hongyicheng3.github.io/portfolio/web_scraping.html) |
 [Download Jupyter file](assets/web_scraping.ipynb)
 
