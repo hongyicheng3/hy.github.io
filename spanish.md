@@ -1,5 +1,5 @@
 ---
-layout: special
+layout: home
 lang: es
 ---
 
