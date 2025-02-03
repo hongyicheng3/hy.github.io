@@ -10,7 +10,9 @@ I am a Mathematics and Physics (MMathPhys) student at the University of Warwick 
 These are some projects that highlight my ability to apply Python across different domains, demonstrating problem-solving skills, coding proficiency, and a passion for working with this programming language.
 
 ## Exoplanet detection:
-> [See project](https://hongyicheng3.github.io/portfolio/Exoplanet_detection.html) | [Download Jupyter file](assets/Exoplanet_detection.ipynb)
+> [See project](https://hongyicheng3.github.io/portfolio/Exoplanet_detection.html)
+|
+>  [Download Jupyter file](assets/Exoplanet_detection.ipynb)
 
 
 This project involved developing an algorithm to detect exoplanets using data from NASA's Transiting Exoplanet Sky Survey (TESS). I employed a Box-Least-Squares algorithm on 20000 measurements using the **NumPy**, **SciPy** and **MatPlotLib** Python libraries in order to identify potential exoplanet candidates based on observed stellar data. This project sharpened my skills in data analysis, data visualisation, and algorithm development.
