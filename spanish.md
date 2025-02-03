@@ -1,8 +1,6 @@
 ---
 layout: default
 ---
-
-
-
-
-[back](./)
+```
+[See the page in English](./)
+```
