@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> ##### [Ver la página en español](./spanish.html)
+ ##### [Ver la página en español](./spanish.html)
 
 I am a Mathematics and Physics (MMathPhys) student at the University of Warwick with a passion for Python programming. I taught myself the basics and then decided to deepen my knowledge through some university modules.
 
