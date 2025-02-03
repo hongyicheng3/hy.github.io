@@ -1,5 +1,5 @@
 
-> ##### [Para ver la página en español](./spanish.html)
+> ##### [Ver la página en español](./spanish.html)
 
 
 ## Projects
