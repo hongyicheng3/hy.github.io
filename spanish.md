@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> ##### [See the page in English](./)
+##### [See the page in English](./)
 
 ```
 En progreso
