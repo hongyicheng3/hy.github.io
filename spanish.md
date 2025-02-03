@@ -1,6 +1,6 @@
 ---
 layout: 
 ---
-```
-[See the page in English](./)
-```
+
+> [See the page in English](./)
+
