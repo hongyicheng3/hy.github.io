@@ -1,4 +1,7 @@
-
+---
+layout: default
+lang: en
+---
 > ##### [Ver la página en español](./spanish.html)
 
 
