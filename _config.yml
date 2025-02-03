@@ -5,9 +5,9 @@ author:
 
 description: 
 
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+#plugins:
+#  - jekyll-feed
+#  - jekyll-seo-tag
 
 show_downloads: False
 theme: minima
