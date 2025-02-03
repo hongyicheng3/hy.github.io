@@ -1,3 +1,5 @@
+###### [Para ver la página en español](./spanish.html)
+
 ## Projects
 These are some projects that highlight my ability to apply Python across different domains, demonstrating problem-solving skills, coding proficiency, and a passion for working with this programming language.
 
