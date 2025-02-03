@@ -11,4 +11,4 @@ es:
   description: "¡Bienvenido a mi sitio web!"
 
 show_downloads: False
-theme: jekyll-theme-minimal
+theme: jekyll-theme-minima
