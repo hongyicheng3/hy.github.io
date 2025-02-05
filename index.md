@@ -8,6 +8,7 @@ I am a Mathematics and Physics (MMathPhys) student at the University of Warwick 
 
 # Projects
 * * *
+
 These are some projects that highlight my ability to apply Python across different domains, demonstrating problem-solving skills, coding proficiency, and a passion for working with this programming language.
 
 
